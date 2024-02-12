@@ -13,7 +13,7 @@ h1{
     font-size: 40px;
     margin-top: 50px;
     margin-right: 650px;
-    text-decoration: underline;
+    white-space:nowwrap;
 }
 .container{
     max-width: 1200px;
